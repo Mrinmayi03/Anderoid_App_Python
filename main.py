@@ -7,16 +7,6 @@ import random
 kivy.require('1.9.0')
 
 
-
-
-
-
-
-
-
-
-
-
 class MyRoot(BoxLayout):
     #Generate number function:
     
