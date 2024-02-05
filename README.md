@@ -1,4 +1,4 @@
-# Anderoid_App_Python
+# Android_App_Python
 
 ## Description
 This is a simple random number generator application built using Python and the Kivy library. It generates a random number between 1 and 1000 each time the user clicks the "Generate" button.
