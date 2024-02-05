@@ -3,8 +3,6 @@
 ## Description
 This is a simple random number generator application built using Python and the Kivy library. It generates a random number between 1 and 1000 each time the user clicks the "Generate" button.
 
-## Installation
-
 ### Prerequisites
 - Python 3.x
 - Kivy
